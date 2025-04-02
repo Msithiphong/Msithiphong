@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **maxwellsithiphong@gmail.com**
 
-- ⚡ Fun fact **I love to Rock Climb and travel to National Parks**
+- ⚡ Fun fact **I love to Rock Climb and traveling to National Parks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
