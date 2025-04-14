@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxwell Sithiphong</h1>
 <h3 align="center">A passionate backend developer from San Francisco</h3>
 
-- 🔭 I’m currently working on [NeuroTutor](https://github.com/Msithiphong/NeuroTutor)
+- 🔭 I’m currently working on [PupDuty](https://github.com/Msithiphong/PupDuty)
 
 - 🌱 I’m currently learning **Front end development, Operating Systems, Computer Science Theory and Intro to Computer Security**
 
