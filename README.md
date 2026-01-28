@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maxwell Sithiphong</h1>
 <h3 align="center">A passionate backend developer from San Francisco</h3>
 
-- 🔭 I’m currently working on [PupDuty](https://github.com/Msithiphong/PupDuty)
+- 🔭 I’m currently working on [BeachEchoes](https://github.com/Msithiphong/BeachEchoes)
 
-- 🌱 I’m currently learning **Front end development, Operating Systems, Computer Science Theory and Intro to Computer Security**
+- 🌱 I’m currently learning **Dynamic Networks, Software Development w/ Frameworks, and User Interfaces**
 
 - 📫 How to reach me **maxwellsithiphong@gmail.com**
 
